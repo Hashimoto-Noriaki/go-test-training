@@ -1,5 +1,5 @@
-package main
+package math
 
-func Add(a,b int){
+func Add(a,b int) int {
 	return a + b
 }
